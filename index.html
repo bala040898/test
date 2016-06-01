@@ -1,13 +1,24 @@
-
 <html>
+<head>
+<style>
+div.container {
+    border: 1px solid red;
+    margin-left: 100px;
+}
+
+p.one {
+    margin-left: inherit;
+}
+</style>
+</head>
 <body>
 
-<h1>My First Web Page</h1>
-<p>My first paragraph.</p>
+<h2>Use of the inherit Value</h2>
+<p>Let the left margin be inherited from the parent element:</p>
 
-<script>
-window.alert(5 + 6);
-</script>
+<div class="container">
+<p class="one">This is a paragraph with an inherited left margin (from the div element).</p>
+</div>
 
 </body>
-</html> 
+</html>
