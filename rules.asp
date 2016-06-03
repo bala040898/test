@@ -19,39 +19,25 @@ display: inline-block;
 
 b:link, a:visited {
    
- float:left;
- 
+float:left; 
 background-color:#8A2BE2;
 color: white;
-   
 padding: 14px 25px;
-  
 text-align: center;
-  
 text-decoration: none;
- 
 display: inline-block;
 }
 h1{
 color:green;
 text-align:center;
+text-shadow 2px 2px 4px #000000;
 }
 p{
  font size:50px;
 font-family:"arial";
 }
 a:hover, a:active {
-  
-  background-color:khaki;
-
-align:center;
-    
-}
-
-b:hover, b:active {
-  
-  background-color:khaki;
-
+background-color:khaki;
 align:center;
     
 }
@@ -79,6 +65,5 @@ the remining tiles on successive clicks.
 </style>
 <body>
 <a href="GAME.asp" target="_blank">GET READY</a>
-<b href="timer.asp" target="_blank"><START TIMER</b>
 </head>
 </html>
