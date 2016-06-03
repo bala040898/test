@@ -27,6 +27,7 @@ div#memory_board > div{
 body
 {
 background-color:#399;
+background-image:tile_bg.png;
 
 }
 </style>
