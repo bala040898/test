@@ -123,11 +123,9 @@ setTimeout(flip2Back, 7);
 }
 </script>
 <body>
-<b style="font-size:50px;text-align=center;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp                  MEMORY GAME</b>
+<b style="font-size:50px;text-align=center;">&nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp    &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp  &nbsp    MEMORY GAME</b>
 <div id="memory_board"></div>
 <script>newBoard();</script>
 
-<b style="font-size:40px;"> MATCHES :</b>
-<b style="font-size:40px;" id="tiles_flipped"> 0 </b>
 </body>
 </html>
