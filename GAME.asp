@@ -123,7 +123,7 @@ setTimeout(flip2Back, 7);
 }
 </script>
 <body>
-<b style="font-size:50px;text-align=center;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp                  MEMORY GAME</b>
+<b style="font-size:50px;text-align=center;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp                  MEMORY GAME</b>
 <div id="memory_board"></div>
 <script>newBoard();</script>
 
